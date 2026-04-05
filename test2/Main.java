@@ -1,0 +1,1 @@
+# pulbic class Main {}
